@@ -8,3 +8,5 @@
   - [PrismLauncher][prismlauncher]
   - [ModrinthApp][modrinthapp]
 
+[prismlauncher]: https://prismlauncher.org/
+[modrinthapp]: https://modrinth.com/app
