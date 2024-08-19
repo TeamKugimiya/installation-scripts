@@ -1,4 +1,4 @@
-Write-Host -BackgroundColor DarkBlue -ForegroundColor White "######################################"
+﻿Write-Host -BackgroundColor DarkBlue -ForegroundColor White "######################################"
 Write-Host -BackgroundColor DarkBlue -ForegroundColor White "###           釘宮翻譯組           ###"
 Write-Host -BackgroundColor DarkBlue -ForegroundColor White "###     Prism Launcher 安裝腳本    ###"
 Write-Host -BackgroundColor DarkBlue -ForegroundColor White "######################################"
