@@ -15,15 +15,6 @@ if ($confirm -eq "yes") {
     Write-Host -BackgroundColor White -ForegroundColor Black "正在安裝 Prism Launcher..."
     winget install --id=PrismLauncher.PrismLauncher -e
 
-    Write-Host -BackgroundColor White -ForegroundColor Black "正在安裝 Temurin Java 8..."
-    winget install --id=EclipseAdoptium.Temurin.8.JRE -e
-
-    Write-Host -BackgroundColor White -ForegroundColor Black "正在安裝 Temurin Java 17..."
-    winget install --id=EclipseAdoptium.Temurin.17.JRE -e
-
-    Write-Host -BackgroundColor White -ForegroundColor Black "正在安裝 Temurin Java 21..."
-    winget install --id=EclipseAdoptium.Temurin.21.JRE -e
-
     Write-Host -BackgroundColor Black -ForegroundColor Green "安裝完成！"
 } else {
     Write-Host -BackgroundColor Black -ForegroundColor Red "已取消安裝"
